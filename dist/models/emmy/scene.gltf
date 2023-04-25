@@ -1,0 +1,479 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 3713,
+      "max": [
+        34.756675720214844,
+        263.1806945800781,
+        78.52904510498047
+      ],
+      "min": [
+        -34.75666046142578,
+        194.76736450195313,
+        12.032975196838379
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 44556,
+      "componentType": 5126,
+      "count": 3713,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 3713,
+      "max": [
+        0.999994158744812,
+        0.9999939203262329,
+        0.9999939203262329,
+        1.0
+      ],
+      "min": [
+        -0.999993622303009,
+        -0.9999935626983643,
+        -0.9999940395355225,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 3713,
+      "max": [
+        0.9222079515457153,
+        0.8704927563667297
+      ],
+      "min": [
+        0.009233832359313965,
+        0.010513495653867722
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 16704,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 89112,
+      "componentType": 5126,
+      "count": 12397,
+      "max": [
+        64.91799926757813,
+        47.65284729003906,
+        64.91796112060547
+      ],
+      "min": [
+        -64.91800689697266,
+        -1.4488096237182617,
+        -64.91797637939453
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 237876,
+      "componentType": 5126,
+      "count": 12397,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 59408,
+      "componentType": 5126,
+      "count": 12397,
+      "max": [
+        1.0,
+        0.9999995231628418,
+        0.9992255568504333,
+        1.0
+      ],
+      "min": [
+        -0.9998692870140076,
+        -0.9999934434890747,
+        -0.999799370765686,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 29704,
+      "componentType": 5126,
+      "count": 12397,
+      "max": [
+        0.9856712222099304,
+        0.9927192330360413
+      ],
+      "min": [
+        0.44453832507133484,
+        0.0072126006707549095
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 66816,
+      "componentType": 5125,
+      "count": 69750,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 386640,
+      "componentType": 5126,
+      "count": 9679,
+      "max": [
+        34.76026916503906,
+        254.0347442626953,
+        45.861568450927734
+      ],
+      "min": [
+        -34.760284423828125,
+        45.737815856933594,
+        -30.981550216674805
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 502788,
+      "componentType": 5126,
+      "count": 9679,
+      "max": [
+        0.9999667406082153,
+        0.9999573230743408,
+        1.0
+      ],
+      "min": [
+        -0.9999666810035706,
+        -0.9999092221260071,
+        -0.9996747970581055
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 257760,
+      "componentType": 5126,
+      "count": 9679,
+      "max": [
+        1.0,
+        0.9839518666267395,
+        0.9996069073677063,
+        1.0
+      ],
+      "min": [
+        -0.9999960660934448,
+        -0.9875900745391846,
+        -0.9995862245559692,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 128880,
+      "componentType": 5126,
+      "count": 9679,
+      "max": [
+        0.7317876815795898,
+        0.9972876310348511
+      ],
+      "min": [
+        0.004324048757553101,
+        0.006353259086608887
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 345816,
+      "componentType": 5125,
+      "count": 55044,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Deftroy (https://sketchfab.com/deftroy)",
+      "license": "SKETCHFAB Standard (https://sketchfab.com/licenses)",
+      "source": "https://sketchfab.com/3d-models/the-emmy-awards-statuette-trophy-c139fad5ec444b59b32b8007a9ea9059",
+      "title": "The Emmy Awards Statuette Trophy"
+    },
+    "generator": "Sketchfab-14.48.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 565992,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 206312,
+      "byteOffset": 565992,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 618936,
+      "byteOffset": 772304,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 412624,
+      "byteOffset": 1391240,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 1803864,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/lambert1_baseColor.webp"
+    },
+    {
+      "uri": "textures/lambert1_metallicRoughness.webp"
+    },
+    {
+      "uri": "textures/lambert1_normal.webp"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "lambert1",
+      "normalTexture": {
+        "index": 2
+      },
+      "occlusionTexture": {
+        "index": 1
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Ball_lambert1_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Base_lambert1_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Body_lambert1_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 11,
+            "POSITION": 10,
+            "TANGENT": 12,
+            "TEXCOORD_0": 13
+          },
+          "indices": 14,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "b746fe67c76a48d5a97858abcd06b239.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4,
+        6,
+        8
+      ],
+      "name": "Emmy"
+    },
+    {
+      "children": [
+        5
+      ],
+      "name": "Ball"
+    },
+    {
+      "mesh": 0,
+      "name": "Ball_lambert1_0"
+    },
+    {
+      "children": [
+        7
+      ],
+      "name": "Base"
+    },
+    {
+      "mesh": 1,
+      "name": "Base_lambert1_0"
+    },
+    {
+      "children": [
+        9
+      ],
+      "name": "Body"
+    },
+    {
+      "mesh": 2,
+      "name": "Body_lambert1_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}
